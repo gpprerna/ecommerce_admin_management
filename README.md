@@ -10,8 +10,9 @@ Requirements
 4. Java version 8.0 or higher.
 
 Done by:
-Dhvani Pranav Shah - PES2UG19CS114
-Geethika Kommineni - PES2UG19CS036
-GP Prerna - PES2UG19CS134
+
+1. Dhvani Pranav Shah - PES2UG19CS114
+2. Geethika Kommineni - PES2UG19CS036
+3. GP Prerna - PES2UG19CS134
 
 Note: All members contributed equally to this project.
