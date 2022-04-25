@@ -3,12 +3,13 @@ An online E-commerce Admin Management system using Java, Spring Boot and MySQL. 
 
 Object Oriented Analysis and Design with Java (UE19CS353) mini-project.
 
-#Requirements
+Requirements
 1. Spring Boot
 2. MySQL database. Note: These tables should coincide with the ones used in the Java program.
 3. Tomcat 9.0 server installation.
 4. Java version 8.0 or higher.
-#Running the code
+
+Running the code
 To run the code, you must first set up the runtime environments, add all the necessary libraries and set the class path to the ojdbc jar and mysql-connector-java file in your system.
 
 Done by:
