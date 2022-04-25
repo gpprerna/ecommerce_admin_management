@@ -9,9 +9,6 @@ Requirements
 3. Tomcat 9.0 server installation.
 4. Java version 8.0 or higher.
 
-Running the code
-To run the code, you must first set up the runtime environments, add all the necessary libraries and set the class path to the ojdbc jar and mysql-connector-java file in your system.
-
 Done by:
 Dhvani Pranav Shah - PES2UG19CS114
 Geethika Kommineni - PES2UG19CS036
